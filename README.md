@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 I wrote and tested this Notebook in Python 3.10.
 
-⚠️ **This Notebook generates and executes Python code written by an LLM. This has the potential to take unpredictable, buggy, or even harmful executions. Take caution to run this Notebook only in a sandboxed or appropriately controlled environment.** ⚠️
+⚠️ **This Notebook generates and executes Python code written by an LLM. This has the potential to run unpredictable, buggy, or even harmful executions. Take caution to run this Notebook only in a sandboxed or appropriately controlled environment.** ⚠️
 
 ## License
 
