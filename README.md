@@ -44,6 +44,6 @@ https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_163/GS_1
 
 ## A Matt Hodges project
 
-This project is maintained by [@hodgesmr](https://mastodon.social/@MattHodges).
+This project is maintained by [@MattHodges](https://mastodon.social/@MattHodges).
 
 _Please use it for good, not evil._
