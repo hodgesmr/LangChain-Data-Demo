@@ -2,6 +2,8 @@
 
 This is a [Jupyter Notebook](https://github.com/hodgesmr/LangChain-Data-Demo/blob/main/LangChain%20Data%20Demo.ipynb) that demostrates a variety of data engineering and anaysis tasks one can tackle with [LangChain](https://python.langchain.com/en/latest/index.html). It walks through using the LLM (via OpenAI) to write and execute SQL queries, and then pass the results of those queries to Python for data visualization. It uses public data voter files.
 
+![The LangChain agent executing SQL and Python to generate data visualization against the voter file](https://raw.githubusercontent.com/hodgesmr/LangChain-Data-Demo/main/agent_steps.png)
+
 ## Setup
 
 Before you can run the [Notebook](https://github.com/hodgesmr/LangChain-Data-Demo/blob/main/LangChain%20Data%20Demo.ipynb), you need to copy [.env.example](./.env.example) to [.env](./.env) (which is ignored by git) and fill in the `OPENAI_API_KEY` environment variable.
