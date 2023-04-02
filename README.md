@@ -18,6 +18,30 @@ I wrote and tested this Notebook in Python 3.10.
 
 All code is provided under the [BSD 3-Clause license](https://github.com/hodgesmr/LangChain-Data-Demo/blob/main/LICENSE).
 
+## North Carolina
+
+The data used by the code in this repository originated from the North Carolina State Board of Elections, with the following [license](https://s3.amazonaws.com/dl.ncsbe.gov/data/ReadMe_PUBLIC_DATA.txt):
+
+```
+/* *******************************************************************************
+* name:     ReadMe_PUBLIC_DATA.txt
+* purpose:  Notification to the public, media, and interested parties.  
+*           The data and documents contained within this publicly accessible site 
+*           and all subforders herein provided by the NC State Board of Elections 
+*           are considered public information per NC General Statutes. 
+* URL:      https://dl.ncsbe.gov/list.html
+* updated:  09/16/2020
+******************************************************************************* */
+
+Citations:
+
+Â§ 132-1. Public Records.
+https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_132/GS_132-1.pdf
+
+Â§ 163-82.10.  Official record of voter registration.
+https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_163/GS_163-82.10.pdf
+```
+
 ## A Matt Hodges project
 
 This project is maintained by [@hodgesmr](https://mastodon.social/@MattHodges).
