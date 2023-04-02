@@ -1,6 +1,6 @@
 # LangChain Data Demo
 
-This is a [Jupyter Notebook](https://github.com/hodgesmr/LangChain-Data-Demo/blob/main/LangChain%20Data%20Demo.ipynb) that demostrates a variety of data engineering and anaysis tasks one can tackle with [LangChain](https://python.langchain.com/en/latest/index.html). It walks through using the LLM to write and execute SQL queries, and then pass the results of those queries to Python for data visualization.
+This is a [Jupyter Notebook](https://github.com/hodgesmr/LangChain-Data-Demo/blob/main/LangChain%20Data%20Demo.ipynb) that demostrates a variety of data engineering and anaysis tasks one can tackle with [LangChain](https://python.langchain.com/en/latest/index.html). It walks through using the LLM (via OpenAI) to write and execute SQL queries, and then pass the results of those queries to Python for data visualization. It uses public data voter files.
 
 ## Setup
 
