@@ -18,7 +18,7 @@ I wrote and tested this Notebook in Python 3.10.
 
 All code is provided under the [BSD 3-Clause license](https://github.com/hodgesmr/LangChain-Data-Demo/blob/main/LICENSE).
 
-## North Carolina
+## North Carolina Voter Data
 
 The data used by the code in this repository originated from the North Carolina State Board of Elections, with the following [license](https://s3.amazonaws.com/dl.ncsbe.gov/data/ReadMe_PUBLIC_DATA.txt):
 
