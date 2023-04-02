@@ -44,3 +44,4 @@ package-lock.json
 
 .env
 data/*.txt
+data/*.db*
