@@ -6,6 +6,8 @@ This Notebook was written with LangChain version `0.0.128` using the `text-davin
 
 ![The LangChain agent executing SQL and Python to generate data visualization against the voter file](https://raw.githubusercontent.com/hodgesmr/LangChain-Data-Demo/main/agent_steps.png)
 
+⚠️ **This Notebook generates and executes Python code written by an LLM. This has the potential to run unpredictable, buggy, or even harmful executions. Take caution to run this Notebook only in a sandboxed or appropriately controlled environment.** ⚠️
+
 ## Setup
 
 Before you can run the [Notebook](https://github.com/hodgesmr/LangChain-Data-Demo/blob/main/LangChain%20Data%20Demo.ipynb), you need to copy [.env.example](./.env.example) to [.env](./.env) (which is ignored by git) and fill in the `OPENAI_API_KEY` environment variable.
@@ -17,8 +19,6 @@ pip install -r requirements.txt
 ```
 
 I wrote and tested this Notebook in Python 3.10.
-
-⚠️ **This Notebook generates and executes Python code written by an LLM. This has the potential to run unpredictable, buggy, or even harmful executions. Take caution to run this Notebook only in a sandboxed or appropriately controlled environment.** ⚠️
 
 ## License
 
